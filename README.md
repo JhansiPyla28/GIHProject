@@ -30,59 +30,59 @@ The online complaint board application is designed to provide a platform for col
   - logo512.png: Logo image file for progressive web apps.
   - manifest.json: Manifest file for progressive web apps.
   - robots.txt: Robots.txt file for search engine crawlers.
-src (directory):
-  components (directory):
-    Footer (directory):
-      Footer.css: CSS file for the Footer component.
-      Footer.js: Footer component.
-    Home (directory):
-      uploads (directory): Directory to store uploaded files for complaints.
-      e2 sem2.png: Example uploaded image file.
-      Admin.js: Admin component for the Home page.
-      AdminComplaints.js: AdminComplaints component for the Home page.
-      AdminHome.js: AdminHome component for the Home page.
-      AllComplaints.js: AllComplaints component for the Home page.
-      Complaints.js: Complaints component for the Home page.
-      CivilAdminNav.js: CivilAdminNav component for the Home page.
-      CivilComplaints.js: CivilComplaints component for the Home page.
-      Complaints.css: CSS file for the Complaints component.
-      Complaints.js: Complaints component for the Home page.
-      EditForm.js: EditForm component for complaint editing.
-      Home.css: CSS file for the Home component.
-      Home.js: Home component for the landing page.
-      InfraAdminNav.js: InfraAdminNav component for the Home page.
-      InfraComplaints.js: InfraComplaints component for the Home page.
-      MainAdminNav.js: MainAdminNav component for the Home page.
-      TechAdminNav.js: TechAdminNav component for the Home page.
-      TechComplaints.js: TechComplaints component for the Home page.
-      Users.js: Users component for user management.
-    LoginRegister (directory):
-      Alert.js: Alert component for displaying error messages.
-      LoginPage.js: LoginPage component for user login.
-      LoginRegister.css: CSS file for the Login and Register components.
-      MBLoginPage.js: MBLoginPage component for mobile number login.
-      RegisterPage.js: RegisterPage component for user registration.
-    Navbar (directory):
-      logo.png: Logo image file for the Navbar.
-      Navbar.css: CSS file for the Navbar component.
-      Navbar.js: Navbar component.
-      AdminLoginPage.js: AdminLoginPage component for admin login.
-      ComplaintForm.js: ComplaintForm component for complaint submission.
-      Context.js: Context file for managing global state.
-      ForgotPage.js: ForgotPage component for password recovery.
-      HomePage.js: HomePage component for the landing page.
-      Login.js: Login component for user login.
-      RegisterPage.js: RegisterPage component for user registration.
-    shared (directory):
-      baseUrl.js: Base URL file for API endpoints.
-      App.css: CSS file for the App component.
-      App.js: Main component handling routing and rendering.
-      App.test.js: Test file for the App component.
-      index.css: CSS file for the index.html file.
-      index.js: Entry point of the application.
-      logo.svg: Logo image file for the application.
-      reportWebVitals.js: File for reporting web vitals.
-      setupTests.js: File for setting up tests.
-.gitignore: File specifying which files to ignore in version control.
-package-lock.json: Auto-generated file specifying exact versions of installed dependencies.
-package.json: File specifying project metadata and dependencies.
+- src (directory):
+  - components (directory):
+    - Footer (directory):
+      - Footer.css: CSS file for the Footer component.
+      - Footer.js: Footer component.
+    - Home (directory):
+      - uploads (directory): Directory to store uploaded files for complaints.
+      - e2 sem2.png: Example uploaded image file.
+      - Admin.js: Admin component for the Home page.
+      - AdminComplaints.js: AdminComplaints component for the Home page.
+      - AdminHome.js: AdminHome component for the Home page.
+      - AllComplaints.js: AllComplaints component for the Home page.
+      - Complaints.js: Complaints component for the Home page.
+      - CivilAdminNav.js: CivilAdminNav component for the Home page.
+      - CivilComplaints.js: CivilComplaints component for the Home page.
+      - Complaints.css: CSS file for the Complaints component.
+      - Complaints.js: Complaints component for the Home page.
+      - EditForm.js: EditForm component for complaint editing.
+      - Home.css: CSS file for the Home component.
+      - Home.js: Home component for the landing page.
+      - InfraAdminNav.js: InfraAdminNav component for the Home page.
+      - InfraComplaints.js: InfraComplaints component for the Home page.
+      - MainAdminNav.js: MainAdminNav component for the Home page.
+      - TechAdminNav.js: TechAdminNav component for the Home page.
+      - TechComplaints.js: TechComplaints component for the Home page.
+      - Users.js: Users component for user management.
+    - LoginRegister (directory):
+      - Alert.js: Alert component for displaying error messages.
+      - LoginPage.js: LoginPage component for user login.
+      - LoginRegister.css: CSS file for the Login and Register components.
+      - MBLoginPage.js: MBLoginPage component for mobile number login.
+      - RegisterPage.js: RegisterPage component for user registration.
+    - Navbar (directory):
+      - logo.png: Logo image file for the Navbar.
+      - Navbar.css: CSS file for the Navbar component.
+      - Navbar.js: Navbar component.
+      - AdminLoginPage.js: AdminLoginPage component for admin login.
+      - ComplaintForm.js: ComplaintForm component for complaint submission.
+      - Context.js: Context file for managing global state.
+      - ForgotPage.js: ForgotPage component for password recovery.
+      - HomePage.js: HomePage component for the landing page.
+      - Login.js: Login component for user login.
+      - RegisterPage.js: RegisterPage component for user registration.
+    - shared (directory):
+      - baseUrl.js: Base URL file for API endpoints.
+      - App.css: CSS file for the App component.
+      - App.js: Main component handling routing and rendering.
+      - App.test.js: Test file for the App component.
+      - index.css: CSS file for the index.html file.
+      - index.js: Entry point of the application.
+      - logo.svg: Logo image file for the application.
+      - reportWebVitals.js: File for reporting web vitals.
+      - setupTests.js: File for setting up tests.
+- .gitignore: File specifying which files to ignore in version control.
+- package-lock.json: Auto-generated file specifying exact versions of installed dependencies.
+- package.json: File specifying project metadata and dependencies.
