@@ -1,0 +1,178 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "password": "1234",
+      "block": "AB2",
+      "floor": "s",
+      "room": "8",
+      "date": "2023-05-27T11:09:22.671Z"
+    },
+    {
+      "id": "admin",
+      "password": "1234",
+      "block": "",
+      "floor": "",
+      "room": "",
+      "date": "2023-06-03T11:52:45.704Z"
+    },
+    {
+      "id": "N180169",
+      "password": "Jhansiva@28",
+      "email": "n180169@rguktn.ac.in",
+      "phoneNumber": "9603650318",
+      "block": "AB2",
+      "floor": "F",
+      "room": "7",
+      "date": "2023-06-13T04:06:33.650Z"
+    },
+    {
+      "id": "tech",
+      "password": "1234",
+      "email": "n180169@rguktn.ac.in",
+      "phoneNumber": "9603650318",
+      "block": "AB2",
+      "floor": "F",
+      "room": "7",
+      "date": "2023-06-13T04:06:33.650Z"
+    },
+    {
+      "id": "infra",
+      "password": "1234",
+      "email": "n180169@rguktn.ac.in",
+      "phoneNumber": "9603650318",
+      "block": "AB2",
+      "floor": "F",
+      "room": "7",
+      "date": "2023-06-13T04:06:33.650Z"
+    },
+    {
+      "id": "civil",
+      "password": "1234",
+      "email": "n180169@rguktn.ac.in",
+      "phoneNumber": "9603650318",
+      "block": "AB2",
+      "floor": "F",
+      "room": "7",
+      "date": "2023-06-13T04:06:33.650Z"
+    },
+    {
+      "id": "N180693",
+      "password": "Jhansiv@28",
+      "email": "n180693@rguktn.ac.in",
+      "phoneNumber": "9381976848",
+      "block": "AB2",
+      "floor": "F",
+      "room": "8",
+      "date": "2023-07-13T10:05:58.687Z"
+    },
+    {
+      "id": "N180100",
+      "password": "Swapn@23",
+      "email": "n180100@rguktn.ac.in",
+      "phoneNumber": "9876543210",
+      "block": "AB1",
+      "floor": "S",
+      "room": "8",
+      "date": "2023-07-13T10:55:08.561Z"
+    }
+  ],
+  "complaints": [
+    {
+      "block": "AB2",
+      "room": "7",
+      "floor": "F",
+      "type": "Technical",
+      "description": "not working",
+      "userid": "N180169",
+      "date": "2023-06-19T18:26:28.308Z",
+      "status": "To Be Solved",
+      "statusdesc": "unavailable",
+      "imgname": "",
+      "subType": "Projector",
+      "id": 1
+    },
+    {
+      "block": "AB2",
+      "room": "7",
+      "floor": "F",
+      "type": "Civil",
+      "description": "less number of chairs",
+      "userid": "N180169",
+      "date": "2023-06-19T18:30:59.657Z",
+      "status": "Issue Solved",
+      "statusdesc": "Solved",
+      "imgname": "C:\\fakepath\\e2 sem2 .png",
+      "subType": "Chairs",
+      "phoneNumber": "+919603650318",
+      "id": 2
+    },
+    {
+      "userid": "N180169",
+      "Name": "Sivasai Podugu",
+      "Email": "sivasaipodugu13@gmail.com",
+      "block": "AB2",
+      "floor": "F",
+      "room": "7",
+      "type": "Infra",
+      "subType": "Charging Port",
+      "description": "not working in row 3",
+      "status": "Unread",
+      "statusdesc": "Will be solved soon",
+      "phoneNumber": "+919603650318",
+      "date": "2023-06-19T18:32:21.578Z",
+      "id": 3
+    },
+    {
+      "userid": "N180693",
+      "Name": "Jhansi",
+      "Email": "n180693@rguktn.ac.in",
+      "block": "AB2",
+      "floor": "F",
+      "room": "8",
+      "type": "Technical",
+      "subType": "LAN",
+      "description": "Lan Ports not working",
+      "status": "Unread",
+      "statusdesc": "Will be solved soon",
+      "phoneNumber": "9381976848",
+      "date": "2023-07-13T10:06:45.042Z",
+      "id": 4
+    },
+    {
+      "userid": "N180693",
+      "Name": "Jhansi",
+      "Email": "n180693@rguktn.ac.in",
+      "block": "AB2",
+      "floor": "F",
+      "room": "8",
+      "type": "Civil",
+      "subType": "Chairs",
+      "description": "No enough chairs",
+      "status": "Unread",
+      "statusdesc": "Will be solved soon",
+      "phoneNumber": "9381976848",
+      "date": "2023-07-13T10:07:20.722Z",
+      "id": 5
+    },
+    {
+      "userid": "N180693",
+      "Name": "Jhansi",
+      "Email": "n180693@rguktn.ac.in",
+      "block": "AB2",
+      "floor": "F",
+      "room": "8",
+      "type": "Infra",
+      "subType": "Fans",
+      "description": "Not working",
+      "status": "Unread",
+      "statusdesc": "Will be solved soon",
+      "phoneNumber": "9381976848",
+      "date": "2023-07-13T10:08:11.603Z",
+      "id": 6
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
