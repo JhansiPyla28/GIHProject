@@ -21,15 +21,15 @@ The online complaint board application is designed to provide a platform for col
 
 **System Structure**
 
-node_modules (directory): Contains the dependencies installed for the project.
-public (directory):
-  favicon.ico: Favicon file for the application.
-  index.html: HTML template file for the application.
-  logo.png: Logo image file for the application.
-  logo192.png: Logo image file for progressive web apps.
-  logo512.png: Logo image file for progressive web apps.
-  manifest.json: Manifest file for progressive web apps.
-  robots.txt: Robots.txt file for search engine crawlers.
+- node_modules (directory): Contains the dependencies installed for the project.
+- public (directory):
+  - favicon.ico: Favicon file for the application.
+  - index.html: HTML template file for the application.
+  - logo.png: Logo image file for the application.
+  - logo192.png: Logo image file for progressive web apps.
+  - logo512.png: Logo image file for progressive web apps.
+  - manifest.json: Manifest file for progressive web apps.
+  - robots.txt: Robots.txt file for search engine crawlers.
 src (directory):
   components (directory):
     Footer (directory):
