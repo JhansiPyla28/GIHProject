@@ -1,3 +1,7 @@
+Project Link:
+
+https://complait-board.netlify.app/
+
 **Abstract:**
 
 The online complaint board application is designed to provide a platform for college students to raise complaints and get them resolved by the administrators. The application supports multiple login methods, including college ID, mobile number, and Google social login. The system consists of three sub-admins categorized into technical, civil, and infrastructural departments, along with a main admin who has access to all departments.
