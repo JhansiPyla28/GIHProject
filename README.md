@@ -5,17 +5,17 @@ The online complaint board application is designed to provide a platform for col
 
 **Key Features:**
 
-User Authentication: The application supports login using college ID, mobile number, or Google social login. This ensures secure access to the system and personalized user experiences.
+**User Authentication:** The application supports login using college ID, mobile number, or Google social login. This ensures secure access to the system and personalized user experiences.
 
-Complaint Submission: Students can raise complaints by providing details such as category, description, and any supporting documents. The complaint submission form allows students to specify the department related to their complaint.
+**Complaint Submission:** Students can raise complaints by providing details such as category, description, and any supporting documents. The complaint submission form allows students to specify the department related to their complaint.
 
-Department Categorization: The system categorizes complaints into different departments, such as technical, civil, and infrastructural, based on the selected category. This allows administrators to handle complaints efficiently within their respective domains.
+**Department Categorization:** The system categorizes complaints into different departments, such as technical, civil, and infrastructural, based on the selected category. This allows administrators to handle complaints efficiently within their respective domains.
 
-Complaint Tracking: Users can track the status of their complaints, including whether it is pending, under review, or resolved. This feature provides transparency and updates to students regarding the progress of their complaints.
+**Complaint Tracking:** Users can track the status of their complaints, including whether it is pending, under review, or resolved. This feature provides transparency and updates to students regarding the progress of their complaints.
 
-Admin Dashboard: The administrators, including the main admin and sub-admins, have access to a dashboard where they can view and manage complaints assigned to their respective departments. The dashboard provides an overview of pending and resolved complaints.
+**Admin Dashboard:** The administrators, including the main admin and sub-admins, have access to a dashboard where they can view and manage complaints assigned to their respective departments. The dashboard provides an overview of pending and resolved complaints.
 
-Complaint Resolution: Admins can review and take necessary actions on the complaints assigned to them. They can provide responses, assign tasks to other admins, or mark complaints as resolved. This allows for efficient collaboration and resolution of issues.
+**Complaint Resolution:** Admins can review and take necessary actions on the complaints assigned to them. They can provide responses, assign tasks to other admins, or mark complaints as resolved. This allows for efficient collaboration and resolution of issues.
 
 
 
