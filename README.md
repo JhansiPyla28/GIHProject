@@ -9,17 +9,17 @@ For MainAdmin:
   - Username: admin
   - Password: 1234
 
-For Civil Admin:
+For CivilAdmin:
 
   - Username: civil
   - Password: 1234
 
-For Tech Admin:
+For TechAdmin:
 
   - User name: tech
   - Password: 1234
 
-For Infra admin:
+For InfraAdmin:
 
   - Username: infra
   - Password: 1234
