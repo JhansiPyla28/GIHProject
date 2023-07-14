@@ -6,23 +6,23 @@ https://complait-board.netlify.app/
 
 For MainAdmin:
 
-  -Username: admin
-  -Password: 1234
+  - Username: admin
+  - Password: 1234
 
 For Civil Admin:
 
-  -Username: civil
-  -Password: 1234
+  - Username: civil
+  - Password: 1234
 
 For Tech Admin:
 
-  -User name: tech
-  -Password: 1234
+  - User name: tech
+  - Password: 1234
 
 For Infra admin:
 
-  -Username: infra
-  -Password: 1234
+  - Username: infra
+  - Password: 1234
 
 **Abstract:**
 
