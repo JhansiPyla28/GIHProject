@@ -1,6 +1,28 @@
-Project Link:
+**Project Link:**
 
 https://complait-board.netlify.app/
+
+**Credentials**:
+
+For MainAdmin:
+
+USername: admin
+Password: 1234
+
+For Civil Admin:
+
+Username: civil
+Password: 1234
+
+For Tech Admin:
+
+User name: tech
+Password: 1234
+
+For Infra admin:
+
+Username: infre
+Password: 1234
 
 **Abstract:**
 
